@@ -1,0 +1,7 @@
+logs
+extdb3-conf.ini
+venv
+bin
+packages
+obj
+DllExport.bat
